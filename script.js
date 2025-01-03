@@ -1,6 +1,6 @@
 
 // Set the event date (yyyy-mm-dd format)
-const eventDate = new Date("2023-12-25T00:00:00Z").getTime();
+const eventDate = new Date("2025-07-19T00:00:00Z").getTime();
 
 // Update the countdown every second
 const countdownInterval = setInterval(() => {
